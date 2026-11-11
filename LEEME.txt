@@ -1,0 +1,3 @@
+Abrí index.html para consultar la guía. Copiá tu logo.png en esta misma carpeta para mostrarlo arriba de todo.
+Las clases Java y el SQL están en ejemplos. Consultá ejemplos/LEEME.txt y la pestaña Ejemplos completos para la configuración.
+La página funciona sin conexión, salvo enlaces externos. Los ejemplos JDBC requieren JDK, MySQL y Connector/J; no se incluyen credenciales ni driver.

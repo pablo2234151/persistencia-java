@@ -1,0 +1,11 @@
+EJEMPLOS DE PERSISTENCIA JAVA
+
+Requieren JDK 11 o superior.
+ArchivoDemo.java: compilar con javac ArchivoDemo.java y ejecutar java ArchivoDemo agregar "Ana". Leer con java ArchivoDemo.
+CRUD MySQL: ejecutar base.sql en una base de práctica, instalar el JAR oficial MySQL Connector/J dentro de lib y configurar DB_URL, DB_USER, DB_PASSWORD.
+Compilar: javac Alumno.java Conexion.java AlumnoDAO.java Principal.java
+Ejecutar Windows: java -cp ".;lib/*" Principal listar
+Ejecutar Linux/macOS: java -cp ".:lib/*" Principal listar
+DB_URL de ejemplo: jdbc:mysql://localhost:3306/aula_persistencia
+Ver el apartado Ejemplos completos de la guía para todos los comandos.
+No se incluyen driver ni credenciales.
